@@ -9,9 +9,3 @@ View e Controller: equipe Renan.<br><br>
 Model View e Controller: equipe Reginaldo.<br><br>
 <b>Versão 4:</b> Unir todas as versões.<br>
 Model View e Controller: equipe Reginaldo.
-
-<i><h3>App Aluno</h3></i>
-<b>Versão 1:</b> Fazer o jogo segundo http://projpermanencia.com.br/jogo/index.html
-(sem persistência)<br>
-Model, View e Controller: equipe Hellen<br>
-(Renan organizará versões)
