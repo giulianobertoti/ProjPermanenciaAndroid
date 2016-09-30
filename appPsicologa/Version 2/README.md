@@ -1,4 +1,5 @@
 <h2>Version 2</h2>
+<b>Funcionalidades:</b> Com base na versão 1, a psicóloga poderá acrescentar um comentário ao desempenho do aluno.
 <b>APK desta versão:</b> appPsicologaV2.apk
 <br><br>
 <b>Tela Principal</b><br>
