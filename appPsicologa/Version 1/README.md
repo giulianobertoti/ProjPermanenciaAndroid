@@ -1,5 +1,6 @@
 <h2>Version 1</h2>
-<b>APK desta versão:</b> appPsicologa.apk
+<b>Funcionalidades:</b> Busca por RA e retorno das competências do aluno em formato de gráfico com menu de navegação.<br>
+<b>APK desta versão:</b> appPsicologaV1.apk
 <br><br>
 <b>Tela Principal</b><br>
 ![alt](https://github.com/renanmsantos/ProjPermanenciaAndroid/blob/master/appPsicologa/Version%201/Prints/Tela%20principal.png)<br>
