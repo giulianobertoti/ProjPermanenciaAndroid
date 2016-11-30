@@ -7,5 +7,7 @@ Model: equipe Reginaldo.<br>
 View e Controller: equipe Renan.<br><br>
 <b>Versão 3:</b> A psicóloga poderá buscar alunos por instituição, curso, ano e período, receber a lista de alunos e seu status dentro do game.<br>
 Model View e Controller: equipe Reginaldo.<br><br>
+<b>Versão 3.1:</b> Acréscimo da funcionalidade de ordenação dos alunos usando o Comparator.<br>
+Model View e Controller: equipe Reginaldo.<br><br>
 <b>Versão 4:</b> Unir todas as versões.<br>
 Model View e Controller: equipe Reginaldo.
