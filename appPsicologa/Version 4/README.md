@@ -11,7 +11,7 @@
 <b>Tela de pesquisa por Curso</b><br>
 ![alt](https://github.com/renanmsantos/ProjPermanenciaAndroid/blob/master/appPsicologa/Version%204/Prints/TelaPesquisaCurso.png)<br>
 <b>Tela de Status dos alunos - Vindo da busca por Curso</b><br>
-![alt](https://github.com/renanmsantos/ProjPermanenciaAndroid/blob/master/appPsicologa/Version%204/Prints/TelaComentario.png)<br>
+![alt](https://github.com/renanmsantos/ProjPermanenciaAndroid/blob/master/appPsicologa/Version%204/Prints/TelaStatusAluno.png)<br>
 <b>Tela de Comentários - Acessada pelas telas de pesquisa por RA e pesquisa por Curso</b><br>
 ![alt](https://github.com/renanmsantos/ProjPermanenciaAndroid/blob/master/appPsicologa/Version%204/Prints/TelaComentario.png)<br>
 
