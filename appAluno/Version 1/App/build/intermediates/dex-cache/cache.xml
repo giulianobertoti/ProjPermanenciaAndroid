@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_e540d53a136c228937bec0f19aa4133d312fbfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f10b33d16a003b715d8040db066b72725752c66e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6721cc3fc5795561e76e0dd2b5648e26f5f3fd35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_b9fd330fd329a454b04ca9cd8bf01504f212d74b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_39d29d65a2a8c79476fbe0479eecb34d7be4e89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_c43d31c5e8dc537661212f98322c5cfcde68ce5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_54dc0cce00b7ad64a4e7f576f05c1971b982f3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_0a558c36a1c665f9749e304689bc5615cd037dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e8f7032913137a1d8360021dd049323d337cf739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_81c288b974fc03bd945fc05e4f75773a777de413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a69f0d85fa1a2de96f954144d467129d3e821a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_379830bed400e744e34d4927ad964db521209c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cf55f3c2e41b7b1086ed0510d5e71e83eaaa83a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_041def437f8a37a0403478072a28467d5ce66589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_2c4245372fa816ef61bced87decb3d763ae500b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_a25c626bde74ae4a7f5dbed75957ea62cee98a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_00ac05f39cfb0ffdcbcedd41ea92d233edf699cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/renan/Projetos/fatec/4 semestre/padraoProjetos/appAlunoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_acecddfa6b7c3f7af52230abd6a722eb2e5f268c.jar" />
+    </item>
+
+</items>

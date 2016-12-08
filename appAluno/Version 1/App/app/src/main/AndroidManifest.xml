@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sjc.fatec.edu.appAluno">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/scene1"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="sjc.fatec.edu.appAluno.MainMenu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="sjc.fatec.edu.appAluno.Scene"
+            android:label="@string/title_activity_scene" />
+        <activity
+            android:name="sjc.fatec.edu.appAluno.Question"
+            android:label="@string/title_activity_question" />
+        <activity
+            android:name="sjc.fatec.edu.appAluno.Login"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name="sjc.fatec.edu.appAluno.Radar"
+            android:label="@string/title_activity_radar"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        <activity
+            android:name=".Pontuacao"
+            android:label="Pontuacao"></activity>
+
+        </activity>
+    </application>
+
+</manifest>

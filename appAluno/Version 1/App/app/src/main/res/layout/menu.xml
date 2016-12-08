@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Menu"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/jogo"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="80dp"
+            android:clickable="true"
+            android:drawableTop="@mipmap/jogo"
+
+            android:text="Jogar"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pontos"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/jogo"
+            android:layout_marginRight="50dp"
+            android:clickable="true"
+            android:drawableTop="@mipmap/pontos"
+
+            android:text="Pontos"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sair"
+            android:layout_alignLeft="@+id/jogo"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="120dp"
+            android:clickable="true"
+            android:drawableTop="@mipmap/sair"
+            android:onClick="onDestroy"
+            android:text="Sair"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/grafico"
+            android:clickable="true"
+            android:drawableTop="@mipmap/grafico"
+
+            android:text="Grafico"
+            android:textStyle="bold"
+            android:layout_alignTop="@+id/sair"
+            android:layout_alignLeft="@+id/pontos"
+            android:layout_alignStart="@+id/pontos" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>
